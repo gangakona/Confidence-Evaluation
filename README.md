@@ -18,7 +18,7 @@ Illustration of confidence levels: Visualizations will be provided to illustrate
 5. Customization:
 Adaptation to different contexts: The system will allow users to customize evaluation parameters and thresholds to adapt to different contexts and speaker profiles. For example, users might be able to adjust sensitivity levels for detecting changes in speech rate or intensity, or set specific thresholds for determining what constitutes high or low confidence. This customization ensures that the system can be tailored to meet the specific needs and preferences of users in various scenarios.
 ## Technologies Used
-1. Python:
+**1. Python:**
 Primary programming language for implementing feature extraction, machine learning algorithms, and system components.
 3. Librosa:
     Python library for audio and music analysis, used for extracting speech-related features from audio recordings.
