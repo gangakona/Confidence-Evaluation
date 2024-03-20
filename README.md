@@ -5,8 +5,10 @@ The Speaker Confidence Evaluation Project aims to develop a system for assessing
 Effective communication often relies not only on the content of speech but also on the speaker's confidence and demeanor. Understanding the confidence level of a speaker can be valuable in various domains, including public speaking, presentations, and interpersonal interactions. This project addresses the need for automated methods to evaluate speaker confidence objectively and reliably.
 ## Key Features
 1. Feature Extraction:
-- Speech-related features: This includes extracting key characteristics of the speaker's voice, such as speech rate (the speed at which the speaker talks), pitch (the highness or lowness of the speaker's voice), and intensity (the loudness or softness of the speaker's voice). These features can be computed using signal processing techniques applied to audio recordings.
-- Body language features: In addition to speech-related features, the system can also extract features related to the speaker's body language from video data. This might include analyzing facial expressions, gestures, posture, and other non-verbal cues that convey confidence or lack thereof.
+- Speech-related features:
+This includes extracting key characteristics of the speaker's voice, such as speech rate (the speed at which the speaker talks), pitch (the highness or lowness of the speaker's voice), and intensity (the loudness or softness of the speaker's voice). These features can be computed using signal processing techniques applied to audio recordings.
+- Body language features:
+In addition to speech-related features, the system can also extract features related to the speaker's body language from video data. This might include analyzing facial expressions, gestures, posture, and other non-verbal cues that convey confidence or lack thereof.
 2. Machine Learning Models:
 Development of models: Machine learning models will be developed to analyze the extracted features and predict the speaker's confidence level. These models could be trained using supervised learning techniques, where labeled data (e.g., audio recordings labeled with corresponding confidence levels) is used to train the model to make accurate predictions.
 3. Real-time Evaluation:
