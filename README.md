@@ -18,8 +18,14 @@ Illustration of confidence levels: Visualizations will be provided to illustrate
 5. Customization:
 Adaptation to different contexts: The system will allow users to customize evaluation parameters and thresholds to adapt to different contexts and speaker profiles. For example, users might be able to adjust sensitivity levels for detecting changes in speech rate or intensity, or set specific thresholds for determining what constitutes high or low confidence. This customization ensures that the system can be tailored to meet the specific needs and preferences of users in various scenarios.
 ## Technologies Used
-1. Python: Primary programming language for implementing feature extraction, machine learning algorithms, and system components.
-2. Librosa: Python library for audio and music analysis, used for extracting speech-related features from audio recordings.
-3. OpenCV: Open-source computer vision library, utilized for analyzing body language cues and extracting visual features from video data.
-4. Machine Learning Frameworks: Utilize machine learning frameworks such as scikit-learn or TensorFlow for building and training confidence evaluation models.
-5. Web Development Tools: Use web development tools and frameworks for building user interfaces and deploying the system as a web application.
+1. Python:
+Primary programming language for implementing feature extraction, machine learning algorithms, and system components.
+3. Librosa:
+    Python library for audio and music analysis, used for extracting speech-related features from audio recordings.
+5. OpenCV:
+   Open-source computer vision library, utilized for analyzing body language cues and extracting visual features from video data.
+7. Machine Learning Frameworks: 
+Utilize machine learning frameworks such as scikit-learn or TensorFlow for building and training confidence evaluation models.
+8. Web Development Tools:
+   Use web development tools and frameworks for building user interfaces and deploying the system as a web application.
+
