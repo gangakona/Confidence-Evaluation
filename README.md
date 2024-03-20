@@ -1,4 +1,4 @@
-# Confidence-Evaluation
+# Speaker-Confidence-Evaluation
 ## Introduction
 The Speaker Confidence Evaluation Project aims to develop a system for assessing the confidence level of a speaker based on various features extracted from speech signals and body language cues. By analyzing factors such as speech rate, pitch, intensity, and body language, the project seeks to provide insights into the speaker's level of confidence during communication.
 ## Motivation
