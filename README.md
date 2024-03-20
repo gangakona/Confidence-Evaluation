@@ -18,14 +18,16 @@ Illustration of confidence levels: Visualizations will be provided to illustrate
 5. Customization:
 Adaptation to different contexts: The system will allow users to customize evaluation parameters and thresholds to adapt to different contexts and speaker profiles. For example, users might be able to adjust sensitivity levels for detecting changes in speech rate or intensity, or set specific thresholds for determining what constitutes high or low confidence. This customization ensures that the system can be tailored to meet the specific needs and preferences of users in various scenarios.
 ## Technologies Used
-**1. Python:**
-Primary programming language for implementing feature extraction, machine learning algorithms, and system components.
-3. Librosa:
-    Python library for audio and music analysis, used for extracting speech-related features from audio recordings.
-5. OpenCV:
-   Open-source computer vision library, utilized for analyzing body language cues and extracting visual features from video data.
-7. Machine Learning Frameworks: 
-Utilize machine learning frameworks such as scikit-learn or TensorFlow for building and training confidence evaluation models.
-8. Web Development Tools:
-   Use web development tools and frameworks for building user interfaces and deploying the system as a web application.
+**Python:**
+Primary programming language: Python is chosen as the primary programming language for its versatility, simplicity, and extensive libraries ecosystem. It will be used for implementing various components of the Speaker Confidence Evaluation Project, including feature extraction, machine learning algorithms, and system components. Python's readability and ease of use make it well-suited for rapid development and experimentation.
+**Librosa:**
+Python library for audio analysis: Librosa is a powerful Python library specifically designed for audio and music analysis. It provides a wide range of functionalities for loading, manipulating, and analyzing audio data. In the context of this project, Librosa will be utilized to extract speech-related features from audio recordings. This includes extracting features such as speech rate, pitch, and intensity, which are essential for assessing the speaker's confidence level.
+**OpenCV:**
+Open-source computer vision library: OpenCV is a widely-used open-source computer vision library that offers extensive capabilities for image and video analysis. In this project, OpenCV will be leveraged to analyze body language cues and extract visual features from video data. This may involve tasks such as detecting facial expressions, gestures, and other non-verbal cues that can provide insights into the speaker's confidence level during communication.
+Machine Learning Frameworks:
+**Scikit-learn and TensorFlow:**
+Scikit-learn is a popular machine learning library in Python, known for its simplicity and ease of use. It offers a wide range of algorithms and tools for various machine learning tasks, such as classification, regression, clustering, and dimensionality reduction. TensorFlow, developed by Google, is a powerful deep learning framework widely used for building and training neural networks. Both frameworks will be utilized in this project for building and training confidence evaluation models. These models will analyze the extracted features to predict the speaker's confidence level accurately.
+
+
+
 
